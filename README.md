@@ -48,6 +48,10 @@ Feel free to explore the code and visualizations. Contributions and feedback are
 # Summary Dashboard
 ![image](https://github.com/user-attachments/assets/2aad7b7c-0cb1-4732-af16-1882820ac665)
 
+# Findings
+![Findings](https://github.com/user-attachments/assets/57eea16e-ab6a-4a44-a50c-3555576d9b0e)
+![Findings 2](https://github.com/user-attachments/assets/fa46f4dd-7b2c-4cf2-90d1-874145af7bea)
+
 # Customized Forecast of Sales
 
 ![Customized Forecast of Sales](https://github.com/user-attachments/assets/a00cda95-a15c-49bc-9cd7-b308a3714407)
